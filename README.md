@@ -1,2 +1,2 @@
-# Сайт туристического агенства Tyrist-Pro
-## Сайт разработан в учебных целях, посмотрите по [ссылке](https://nedovodeevroman.github.io/Anketa_Artema_Islamova/).
+# Анкета Артёма Исламова
+## Сайт разработан в учебных целях, посмотрите по [ссылке](https://anastasiasilaeva.github.io/Anketa_Artema_Islamova/).
